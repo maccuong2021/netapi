@@ -1,0 +1,14 @@
+D:\Data\DHGD\example\NetAPI\bin\Debug\NetAPI.deps.json
+D:\Data\DHGD\example\NetAPI\bin\Debug\NetAPI.runtimeconfig.json
+D:\Data\DHGD\example\NetAPI\bin\Debug\appsettings.Development.json
+D:\Data\DHGD\example\NetAPI\bin\Debug\appsettings.json
+D:\Data\DHGD\example\NetAPI\bin\Debug\NetAPI.exe
+D:\Data\DHGD\example\NetAPI\bin\Debug\NetAPI.dll
+D:\Data\DHGD\example\NetAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data\DHGD\example\NetAPI\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data\DHGD\example\NetAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data\DHGD\example\NetAPI\bin\Debug\Microsoft.OpenApi.dll
+D:\Data\DHGD\example\NetAPI\bin\Debug\NetAPI.pdb
+D:\Data\DHGD\example\NetAPI\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Data\DHGD\example\NetAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Data\DHGD\example\NetAPI\obj\Debug\docker-compose.dcproj.CopyComplete
